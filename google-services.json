@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405686842283",
+    "project_id": "martialapp-9eeaf",
+    "storage_bucket": "martialapp-9eeaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405686842283:android:d6b3734bee5982b6b098ee",
+        "android_client_info": {
+          "package_name": "com.martialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405686842283-qd7inlochm5jlfddngmjlascqeuadhph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk0yhC1OUjrcqKJmIIbqnfAprO3SsVPXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405686842283-qd7inlochm5jlfddngmjlascqeuadhph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

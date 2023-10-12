@@ -1,0 +1,32 @@
+export type UserDTO = {
+  id: string
+  name: string
+  email: string
+  activated: boolean
+  isAdmin?: boolean
+  monthyPaymentRealized?: []
+  insigniasStudent: {},
+  academyId: string
+  graduate: string
+  birthday: string
+  cellphone?: string
+  telephone?: string
+  bloodType?: string
+  fainting?: boolean
+  lesion?: boolean
+  medication?: boolean
+  healthInsurance?: boolean
+  frequency?: string
+  expectation?: string
+  photoUrl: string
+  paymentId: string
+  paymentMonthyId: string
+  graduateId: string
+  start: string
+  updatedAt?: string
+  createdAt?: string
+  faintingReason?: string,
+  lesionReason?: string,
+  medicationReason?: string,
+  healthInsuranceReason?: string,
+}
